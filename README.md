@@ -1,4 +1,4 @@
-# Hi there, I'm C-Y-P-H-E-R PRO! 👋
+# Hi there, I'm Arkaprovo! 👋
 
 # 💫 About Me
 I am currently a **B.Tech student** with a deep passion for **VLSI**. I am actively working with **Team Sammpaati**, where I enjoy diving into the design and analysis of critical VLSI systems. 
@@ -10,7 +10,6 @@ When I'm not dealing with logic gates, microcontrollers, and code, you can proba
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palarko34@gmail.com) 
 
 # 💻 Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Verilog](https://img.shields.io/badge/Verilog-%2334495E.svg?style=for-the-badge)
